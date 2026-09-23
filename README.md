@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Darryl patrick Matheuw Kurniawan
+- 👋 Hi, I’m Everywhere08
 - 👀 I’m interested in AI,Data Science,Game Developer, and Front end Developer
 - 🌱 I’m currently learning Data Science,and ai with python
 
